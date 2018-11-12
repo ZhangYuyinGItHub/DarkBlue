@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <!-- title -->
+
+        <TextView
+            android:id="@+id/devicename"
+            android:layout_width="fill_parent"
+            android:layout_height="40dip"
+            android:background="#80ffffff"
+            android:gravity="center_vertical"
+            android:paddingLeft="10dp"
+            android:paddingTop="10dp"
+            android:text="titlename"
+            android:textColor="#cc0202"
+            android:textSize="22dp" />
+
+        <!-- state -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#80ffffff"
+            android:orientation="horizontal" >
+
+            <Space
+                android:layout_width="10dp"
+                android:layout_height="fill_parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="State: "
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/devicestate"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="devicestate"
+                android:textColor="#0000ff"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <!-- property -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#80ffffff"
+            android:orientation="horizontal" >
+
+            <Space
+                android:layout_width="10dp"
+                android:layout_height="fill_parent" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Properties: "
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/charaproperty"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:text="charaproperty"
+                android:textSize="18dp" />
+        </LinearLayout>
+
+        <!-- space -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#80ffffff"
+            android:orientation="horizontal" >
+
+            <Space
+                android:layout_width="fill_parent"
+                android:layout_height="10dp" />
+        </LinearLayout>
+
+        <!-- notify and read -->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:gravity="bottom"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:text="Read Value"
+            android:textColor="#ffffff"
+            android:textSize="16dp" />
+
+        <LinearLayout
+            android:id="@+id/readlayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:background="#80ffffff"
+                android:orientation="horizontal" >
+
+                <Button
+                    android:id="@+id/charanotify"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left"
+                    android:background="#00000000"
+                    android:text="Listen for Notification"
+                    android:textColor="#0000ff" />
+
+                <Button
+                    android:id="@+id/chararead"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="#00000000"
+                    android:gravity="right|center_vertical"
+                    android:paddingRight="10dp"
+                    android:text="read the value"
+                    android:textColor="#0000ff" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/readlistview"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#80ffffff"
+                android:minHeight="25dp" >
+            </ListView>
+        </LinearLayout>
+
+        <!-- Write -->
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="50dip"
+            android:gravity="bottom"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:text="Write Value"
+            android:textColor="#ffffff"
+            android:textSize="16dp" />
+
+        <LinearLayout
+            android:id="@+id/writelayout"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dp"
+                android:background="#80ffffff"
+                android:orientation="vertical" >
+
+                <Button
+                    android:id="@+id/charawrite"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="right"
+                    android:background="#00ffffff"
+                    android:paddingRight="10dp"
+                    android:text="write the value"
+                    android:textColor="#0000ff" />
+            </LinearLayout>
+
+            <ListView
+                android:id="@+id/writelistview"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="#80ffffff"
+                android:minHeight="25dp" >
+            </ListView>
+        </LinearLayout>
+
+        <!-- delete -->
+
+    </LinearLayout>
+
+</ScrollView>
