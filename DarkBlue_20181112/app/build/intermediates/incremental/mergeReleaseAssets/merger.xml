@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\homework\Android\DarkBlue_201811121\app\src\main\assets"/><source path="E:\homework\Android\DarkBlue_201811121\app\build\intermediates\shader_assets\release\compileReleaseShaders\out"/></dataSet><dataSet config="release"><source path="E:\homework\Android\DarkBlue_201811121\app\src\release\assets"/></dataSet></merger>
