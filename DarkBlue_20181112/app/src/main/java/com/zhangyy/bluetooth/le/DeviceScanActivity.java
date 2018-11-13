@@ -23,10 +23,12 @@ import java.util.Map;
 import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.app.Activity;
+import android.app.AlertDialog;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothManager;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Bundle;
@@ -40,6 +42,7 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.BaseAdapter;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
@@ -126,6 +129,8 @@ public class DeviceScanActivity extends Activity {
 	private String mRssiValueStr;
 	private String mDeviceType = "PXP";
 
+	String scan_data_str = "";
+
 	private byte[] mScanResData;
 
 	@Override
@@ -192,6 +197,24 @@ public class DeviceScanActivity extends Activity {
 				mBleRssiSW = false;
 		}
 
+		mDeviceListView.setOnItemLongClickListener(new AdapterView.OnItemLongClickListener(){
+			@Override
+			public boolean onItemLongClick(AdapterView<?> arg0, View arg1,
+										   int arg2, long arg3) {
+				// TODO Auto-generated method stub
+				// When clicked, show a toast with the TextView text
+//				TextView tv = (TextView)arg1.findViewById(R.id.textViewVideoTitle);
+
+				BluetoothDevice device = mLeDeviceListAdapter.getDevice(arg2);
+				byte[] arr = (byte[]) mDeviceScanResData.get(device.getAddress());
+
+				scan_data_handle(arr);
+
+
+				return true;
+			}
+		});
+
 		mDeviceListView.setOnItemClickListener(new OnItemClickListener() {
 
 			@Override
@@ -221,6 +244,43 @@ public class DeviceScanActivity extends Activity {
 			}
 		});
 
+	}
+
+	/**
+	 * @brief handle advertising scan data and display
+	 * @param arr
+	 * @return void
+	 */
+	private void scan_data_handle(byte[] arr)
+	{
+		final StringBuilder stringBuilder = new StringBuilder(
+				arr.length);
+		for (byte byteChar : arr)
+			stringBuilder.append(String.format("%02X ", byteChar));
+
+		Toast.makeText(getApplicationContext(),
+				stringBuilder.toString(), Toast.LENGTH_SHORT).show();
+
+		AlertDialog.Builder builder = new AlertDialog.Builder(this);
+		//builder.setIcon(R.drawable.ic_launcher);
+		//builder.setTitle("请输入用户名和密码");
+		//    通过LayoutInflater来加载一个xml的布局文件作为一个View对象
+		View view = LayoutInflater.from(this).inflate(R.layout.activity_main, null);
+		//    设置我们自己定义的布局文件作为弹出框的Content
+		builder.setView(view);
+
+
+//		builder.setPositiveButton("确定", new DialogInterface.OnClickListener()
+//		{
+//			@Override
+//			public void onClick(DialogInterface dialog, int which)
+//			{
+//				//    将输入的用户名和密码打印出来
+//				Toast.makeText(getApplicationContext(), "用户名: " +  ", 密码: " , Toast.LENGTH_SHORT).show();
+//			}
+//		});
+
+		builder.show();
 	}
 
 	private Button.OnClickListener filterBtnListener = new Button.OnClickListener() {

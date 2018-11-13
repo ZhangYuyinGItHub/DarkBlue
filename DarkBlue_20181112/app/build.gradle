@@ -6,12 +6,9 @@ android {
 
     defaultConfig {
         applicationId "com.zhangyy.bluetooth.le"
-        minSdkVersion 18
-        targetSdkVersion 18
+        minSdkVersion 21
+        targetSdkVersion 21
 
-        ndk {
-            moduleName "DarkBlue_20170630"
-        }
     }
 
     buildTypes {

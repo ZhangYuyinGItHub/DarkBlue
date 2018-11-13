@@ -1,282 +1,282 @@
 [
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_seekrealsil.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-ldpi\\seekrealsil.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_info_background.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\info_background.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_editstyle.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\editstyle.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_seek_bkg.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\seek_bkg.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_chara_ctrl_layout.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\chara_ctrl_layout.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_ctrl_write_listview.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\ctrl_write_listview.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_realsil1.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\realsil1.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_round.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\top_round.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_realsil0.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-mdpi\\realsil0.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_darkblue.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\darkblue.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_edit_faused.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\search_edit_faused.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scan.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-mdpi\\scan.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_switch_bkg.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-ldpi\\switch_bkg.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ble.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\ble.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_voice.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_voice.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_realsil0.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\realsil0.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_edit_normal.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\search_edit_normal.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_ctrl_read_listview.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\ctrl_read_listview.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_scan.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-xxhdpi\\scan.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_style.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\button_style.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_device_nobond.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\device_nobond.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\listitem_device.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_keyboardview.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\keyboardview.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_item_list.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\scan_item_list.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_keycontent.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\keycontent.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_actionbarbackground.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\actionbarbackground.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\search.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi2.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\rssi2.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_background.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\setting_background.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_keycontent.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\keycontent.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no_round.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\no_round.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_realsilbackground.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\realsilbackground.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_scan.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\scan.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_itembackground.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\itembackground.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_start_app_activity.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\start_app_activity.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_seek_bkg.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-ldpi\\seek_bkg.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_voice.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_voice.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_activity.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\info_activity.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi2.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\rssi2.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_ctrl_read_listview.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\ctrl_read_listview.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_seekrealsil.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\seekrealsil.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_listviewheader.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\listviewheader.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_itembackground.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\itembackground.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi5.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\rssi5.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_gatt_services_characteristics.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\gatt_services_characteristics.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_ctrl_write_listview.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\ctrl_write_listview.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_scan.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-xhdpi\\scan.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_round.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\top_round.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_device_bond.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\device_bond.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan_item_list.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\scan_item_list.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bee.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\bee.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_device_nobond.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\device_nobond.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi1.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\rssi1.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_round.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\bottom_round.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_horizontal.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\seekbar_horizontal.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ble.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\ble.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_return_array.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\return_array.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_device_bond.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\device_bond.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_switch_bkg.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\switch_bkg.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_realsil0.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-ldpi\\realsil0.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_listviewheader.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\listviewheader.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_filter.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\device_filter.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi5.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\rssi5.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_scan.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\device_scan.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\menu\\gatt_services.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_item_tag.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\group_list_item_tag.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_realsil0.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\realsil0.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi4.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\rssi4.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bee.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\bee.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_realsil0.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-xxhdpi\\realsil0.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_realsilbackground.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\realsilbackground.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scan.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-mdpi\\scan.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_scan.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-xxhdpi\\scan.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_scan.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-xhdpi\\scan.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi1.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\rssi1.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_rcu_voice_layout.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\rcu_voice_layout.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_and_top_round.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\bottom_and_top_round.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_actionbar_indeterminate_progress.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\actionbar_indeterminate_progress.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_switch_thumb.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\switch_thumb.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi0.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\rssi0.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice_logo.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\voice_logo.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_listitem_device.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\listitem_device.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_realsil0.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-xhdpi\\realsil0.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_start_app_activity.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\start_app_activity.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_edit_faused.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\search_edit_faused.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_and_top_round.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\bottom_and_top_round.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_scan.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\device_scan.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_seek.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-ldpi\\seek.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_chara_ctrl_layout.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\chara_ctrl_layout.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no_round.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\no_round.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_item.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\group_list_item.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_item.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\group_list_item.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi4.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\rssi4.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_switch_thumb.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-ldpi\\switch_thumb.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_actionbarbackground.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\actionbarbackground.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_realsil1.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\realsil1.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rightarrow.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\rightarrow.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi0.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\rssi0.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\layout_keyboardview.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\layout\\keyboardview.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_device_filter.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\device_filter.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_style.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\button_style.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_filtersetting.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\filtersetting.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_group_list_item_tag.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\group_list_item_tag.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_darkblue.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-ldpi\\darkblue.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar_horizontal.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\seekbar_horizontal.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice_logo.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\voice_logo.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_realsil0.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-xxhdpi\\realsil0.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_filtersetting.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\filtersetting.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rightarrow.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\rightarrow.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_info_background.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\info_background.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_scan.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\scan.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_realsil0.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\realsil0.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_editstyle.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\editstyle.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_scan.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-ldpi\\scan.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_realsil0.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-mdpi\\realsil0.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\seekbar.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_seekbar.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\seekbar.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_setting_background.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\setting_background.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi3.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\rssi3.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_return_array.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\return_array.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_activity.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\info_activity.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\menu_gatt_services.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\menu\\gatt_services.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_realsil0.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-xhdpi\\realsil0.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\layout_rcu_voice_layout.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\rcu_voice_layout.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bottom_round.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\bottom_round.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_seek.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\seek.png"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rssi3.png.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\rssi3.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_edit_normal.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\search_edit_normal.xml"
     },
     {
-        "merged": "E:\\homework\\Android\\DarkBlue_201811121\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_edit_bk.xml.flat",
-        "source": "E:\\homework\\Android\\DarkBlue_201811121\\app\\src\\main\\res\\drawable-hdpi\\search_edit_bk.xml"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_edit_bk.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\search_edit_bk.xml"
     }
 ]
