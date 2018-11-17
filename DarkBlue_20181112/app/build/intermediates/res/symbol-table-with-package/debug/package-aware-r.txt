@@ -47,6 +47,8 @@ drawable switch_bkg
 drawable switch_thumb
 drawable top_round
 drawable voice_logo
+id adv_device_addr
+id adv_device_name
 id beetitle
 id bond_device
 id characteritic_launcher
@@ -93,6 +95,7 @@ id rssi
 id rssi_image
 id rssi_seek
 id rssi_value
+id scan_linear_layout
 id search_img
 id startbtn
 id voice_cmd_index
