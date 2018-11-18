@@ -45,6 +45,7 @@ drawable seekrealsil
 drawable setting_background
 drawable switch_bkg
 drawable switch_thumb
+drawable them_full_transparency
 drawable top_round
 drawable voice_logo
 id adv_device_addr
@@ -96,6 +97,7 @@ id rssi_image
 id rssi_seek
 id rssi_value
 id scan_linear_layout
+id scan_scroll_view
 id search_img
 id startbtn
 id voice_cmd_index

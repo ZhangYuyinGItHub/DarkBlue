@@ -61,8 +61,9 @@ public final class R {
     public static final int setting_background=0x7f040026;
     public static final int switch_bkg=0x7f040027;
     public static final int switch_thumb=0x7f040028;
-    public static final int top_round=0x7f040029;
-    public static final int voice_logo=0x7f04002a;
+    public static final int them_full_transparency=0x7f040029;
+    public static final int top_round=0x7f04002a;
+    public static final int voice_logo=0x7f04002b;
   }
   public static final class id {
     public static final int adv_device_addr=0x7f050000;
@@ -114,16 +115,17 @@ public final class R {
     public static final int rssi_seek=0x7f05002e;
     public static final int rssi_value=0x7f05002f;
     public static final int scan_linear_layout=0x7f050030;
-    public static final int search_img=0x7f050031;
-    public static final int startbtn=0x7f050032;
-    public static final int voice_cmd_index=0x7f050033;
-    public static final int voice_data_index=0x7f050034;
-    public static final int voice_hid_index=0x7f050035;
-    public static final int voice_rev=0x7f050036;
-    public static final int writelayout=0x7f050037;
-    public static final int writelistview=0x7f050038;
-    public static final int writetime=0x7f050039;
-    public static final int writevalue=0x7f05003a;
+    public static final int scan_scroll_view=0x7f050031;
+    public static final int search_img=0x7f050032;
+    public static final int startbtn=0x7f050033;
+    public static final int voice_cmd_index=0x7f050034;
+    public static final int voice_data_index=0x7f050035;
+    public static final int voice_hid_index=0x7f050036;
+    public static final int voice_rev=0x7f050037;
+    public static final int writelayout=0x7f050038;
+    public static final int writelistview=0x7f050039;
+    public static final int writetime=0x7f05003a;
+    public static final int writevalue=0x7f05003b;
   }
   public static final class layout {
     public static final int actionbar_indeterminate_progress=0x7f060000;

@@ -24,6 +24,7 @@ import android.annotation.SuppressLint;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.app.AlertDialog;
+import android.app.Dialog;
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
 import android.bluetooth.BluetoothManager;
@@ -46,6 +47,7 @@ import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.ListView;
+import android.widget.ScrollView;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -329,13 +331,6 @@ public class DeviceScanActivity extends Activity {
      * @brief handle advertising scan data and display
      */
     private void scan_data_handle(byte[] arr, BluetoothDevice device) {
-        final StringBuilder stringBuilder = new StringBuilder(
-                arr.length);
-        for (byte byteChar : arr)
-            stringBuilder.append(String.format("%02X ", byteChar));
-
-        Toast.makeText(getApplicationContext(),
-                stringBuilder.toString(), Toast.LENGTH_SHORT).show();
 
         /*创建对话框*/
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
@@ -348,6 +343,7 @@ public class DeviceScanActivity extends Activity {
         builder.show();
 
         /*@brief 设置设备名字和MAC地址*/
+
         TextView scan_device_name;
         TextView Scan_device_addr;
         scan_device_name = (TextView) view.findViewById(R.id.adv_device_name);
@@ -361,9 +357,22 @@ public class DeviceScanActivity extends Activity {
         Scan_device_addr.setText(device.getAddress());
 
         LinearLayout layout = (LinearLayout) view.findViewById(R.id.scan_linear_layout);
+
         TextView textView01 = new TextView(view.getContext());
         textView01.setText(advDataParse(arr));
         layout.addView(textView01);
+
+        /*raw data parse*/
+        final StringBuilder stringBuilder = new StringBuilder(
+                arr.length);
+        for (byte byteChar : arr)
+            stringBuilder.append(String.format("%02X ", byteChar));
+
+//        Toast.makeText(getApplicationContext(),
+//                stringBuilder.toString(), Toast.LENGTH_SHORT).show();
+        TextView textViewRawData = new TextView(view.getContext());
+        textViewRawData.setText("\nRaw Data:"+"\n"+stringBuilder.toString());
+        layout.addView(textViewRawData);
     }
 
     private Button.OnClickListener filterBtnListener = new Button.OnClickListener() {
@@ -678,6 +687,8 @@ public class DeviceScanActivity extends Activity {
                 continue;
             }
 
+
+
             /*2. get field type string*/
             String type_str = scan_type.get(field_type);
 
@@ -695,27 +706,32 @@ public class DeviceScanActivity extends Activity {
             final StringBuilder stringBuilder = new StringBuilder(field_length - 1);
             for (int i = 0; i < field_length - 1; i++)
                 stringBuilder.append(String.format("%02X ", temp_arr[i]));
-            str += stringBuilder.toString() + "\n";
+
+
+            String temp = null;
+            if (field_type == 0x01) {
+                temp = SampleGattAttributes.lookupflags((int) temp_arr[0]);
+            } else if (field_type == 0x19) {
+                temp = SampleGattAttributes.lookupappearance(temp_arr);
+            } else if ((field_type == 0x02) || (field_type == 0x03) || (field_type == 0x14)) {
+                temp = SampleGattAttributes.lookup16bitsuuid(temp_arr, field_length - 1);
+            } else if ((field_type == 0x04) || (field_type == 0x05) || (field_type == 0x15)) {
+                temp = SampleGattAttributes.lookup32bitsuuid(temp_arr, field_length - 1);
+            }
+            else if (field_type == 0x09)
+            {
+                temp = SampleGattAttributes.lookupdevicename(temp_arr, field_length-1);
+            }
+
+            if ((temp == "") || (temp == null)) {
+                str += stringBuilder.toString() + "\n" + "\n";
+            } else {
+                str += temp + "\n";
+            }
 
             /*4. offset calibration*/
             index += field_length + 1;
         }
         return str;
     }
-
-//    private String advTypeParse(byte type_len, byte type, byte[] inTypeByte) {
-//        String ret_str = "";
-//        switch (type) {
-//            case 0x01:
-//                ret_str += scan_type.get(0x01) + ":\n";
-//
-//                final StringBuilder stringBuilder = new StringBuilder(
-//                        type_len - 1);
-//                for (int index = 2; index < type_len; index++)
-//                    stringBuilder.append(String.format("%02X ", inTypeByte[index]));
-//                ret_str += stringBuilder.toString() + "\n";//new String(inTypeByte, 2, type_len -1);
-//                break;
-//        }
-//        return ret_str;
-//    }
 }

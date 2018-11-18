@@ -12,20 +12,20 @@
         "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\layout\\ctrl_write_listview.xml"
     },
     {
-        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_round.xml.flat",
-        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\top_round.xml"
-    },
-    {
-        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_darkblue.png.flat",
-        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\darkblue.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ble.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\ble.png"
     },
     {
         "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_scan.png.flat",
         "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-mdpi\\scan.png"
     },
     {
-        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ble.png.flat",
-        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\ble.png"
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_darkblue.png.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-ldpi\\darkblue.png"
+    },
+    {
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_top_round.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\top_round.xml"
     },
     {
         "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_realsil0.png.flat",
@@ -146,6 +146,10 @@
     {
         "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bee.png.flat",
         "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\bee.png"
+    },
+    {
+        "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_them_full_transparency.xml.flat",
+        "source": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\src\\main\\res\\drawable-hdpi\\them_full_transparency.xml"
     },
     {
         "merged": "E:\\Projects\\DarkBlue\\DarkBlue_20181112\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_realsilbackground.png.flat",
